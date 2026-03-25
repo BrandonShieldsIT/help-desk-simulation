@@ -18,5 +18,3 @@ This project simulates real-world IT support scenarios to develop troubleshootin
 - Technical Support
 - Troubleshooting Methodology
 - Incident Resolution
-
-- ## Screenshots
